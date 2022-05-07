@@ -1,5 +1,7 @@
 public class FindPrimeNumber {
     public static void main(String[] args) {
+
+        
         for (int i = 1; i <= 100; i++) {
             boolean isPrimeNumber = true;
             for (int j = 2; j < i; j++) {
